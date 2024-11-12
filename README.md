@@ -1,4 +1,4 @@
-![images/real_estate_adjusted_github.png](images\real_estate_adjusted_github.png)
+![images/real_estate_adjusted_github.png](images/real_estate_adjusted_github.png)
 # 🏘️ Análisis Oferta Inmobiliaria
 ## 📝 Descripción
 Este proyecto trata de realizar un análisis descriptivo sobre la oferta inmobiliaria en India. El objetivo es ordenar la información dada y extraer los datos más representativos y posibles situaciones clave.
